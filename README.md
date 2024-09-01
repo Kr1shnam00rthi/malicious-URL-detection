@@ -12,7 +12,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
 
-### What I accomplished and how to utilize it
+### What I accomplished 
 
 + I performed feature engineering to extract key URL-related features, resulting in a dataset with fully developed attributes.
 + I developed an ensemble model using logistic regression, KNN, decision tree, Naive Bayes, and SVM.
