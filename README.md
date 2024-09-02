@@ -17,7 +17,7 @@
 
 + I performed feature engineering to extract key URL-related features, resulting in a dataset with fully developed attributes.
 + I developed an ensemble model using logistic regression, KNN, decision tree, Naive Bayes, and SVM.
-+ Performed training and testing and ended with tesing accuracy of 84.4%.
++ Performed training and testing and ended with tesing accuracy of 95.5%.
 
 ### Reference
 + [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-8536-9_44)
