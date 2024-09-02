@@ -10,6 +10,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
+![numpy](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=numpy&logoColor=fffffe)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
 
 ### What I accomplished 
