@@ -6,11 +6,10 @@
   
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-4E9A06?style=for-the-badge&logo=network&logoColor=white)
+
 
 ### What I accomplished 
 
@@ -18,6 +17,3 @@
 + I developed an ensemble model using logistic regression, KNN, decision tree, Navies Bayes and MLP(Neural Network).
 + Performed training and testing and ended with tesing accuracy of 96%.
 
-### Reference
-+ [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-8536-9_44)
-+ [Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
