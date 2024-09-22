@@ -16,6 +16,6 @@
 + Performed training and testing and ended with tesing accuracy of 96%.
 
 ### References
-+ ![Research Paper]()
-+ ![Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
++ [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-8536-9_44)
++ [Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
 
