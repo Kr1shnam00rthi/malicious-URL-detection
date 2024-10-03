@@ -11,9 +11,10 @@
 
 ### What I accomplished 
 
-+ I conducted feature engineering to extract essential URL-related attributes, creating a comprehensive dataset.
-+ I then built an ensemble model utilizing logistic regression, KNN, decision tree, Naive Bayes, and MLP (Neural Network).
-+ After training and testing, I achieved a testing accuracy of 96%.
++ I performed feature engineering to extract crucial URL-based attributes, constructing a robust dataset for analysis.
++ I then developed an ensemble model comprising logistic regression, KNN, decision tree, Naive Bayes, and an MLP neural network.
++ After training the model and testing it, I achieved a 96% testing accuracy.
+
 ### References
 + [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-8536-9_44)
 + [Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
