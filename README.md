@@ -11,9 +11,9 @@
 
 ### What I accomplished 
 
-+ I performed feature engineering to extract crucial URL-based attributes, constructing a robust dataset for analysis.
-+ I then developed an ensemble model comprising logistic regression, KNN, decision tree, Naive Bayes, and an MLP neural network.
-+ After training the model and testing it, I achieved a 96% testing accuracy.
++ Performed feature engineering to extract crucial URL-based attributes, creating a dataset for model development
++ Developed an ensemble model using logistic regression, KNN, decision tree, Naive Bayes, and MLP neural network
++ Achieved 96\% testing accuracy by training and testing the model, clearly showcasing strong predictive performance
 
 ### References
 + [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-8536-9_44)
